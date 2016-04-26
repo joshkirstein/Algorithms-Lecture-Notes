@@ -1,4 +1,4 @@
-# Lecture Notes on Various Algorithms
+# Lecture Notes on Algorithms
 
 This repository contains the .tex files as well as the compiled .pdf files for lecture notes on algorithms (written by Joshua Kirstein).
 The following topics are covered:
