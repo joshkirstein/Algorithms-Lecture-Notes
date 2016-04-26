@@ -1,0 +1,10 @@
+# OSX
+.DS_Store
+
+# Latex
+.log
+.aux
+.synctex.gz
+
+# Java
+.class
